@@ -1,0 +1,16 @@
+#wrapper {
+	margin: 10px;
+	border: 1px solid blue;
+	text-align: center;
+}
+
+
+#secretPara {
+
+}
+
+#secretButton {
+	background-color: #4CAF50; /* Green */
+    color: white;
+    padding: 5px;
+}
